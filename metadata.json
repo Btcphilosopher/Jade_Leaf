@@ -1,0 +1,6 @@
+{
+  "name": "Jade Leaf 茶馆",
+  "description": "An elegant, premium mobile app for the Jade Leaf Tea House chain featuring order ahead, room bookings, tea culture tutorials, and loyalty rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
